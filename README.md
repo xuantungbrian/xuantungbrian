@@ -16,11 +16,15 @@ I'm a 4th year Computer Engineering student at UBC with a strong interest in bui
 
 ---
 
-### 🧠 Some Projects I have done
+### 🧠 Some Projects I Have Done
 - 🎨 [Artist’s Time Vault]: Platform for artists to preserve unreleased works & memories using PostgreSQL, NextJS, GraphQL.
 - 🗺️ [Travel Diary App](https://github.com/xuantungbrian/Tomato): Kotlin Android app to track and recommend travel locations using recommendation algorithm.
 - 🔐 [Distributed KV Store]: Built a consistent-hashing-based key-value store with replication and fault tolerance.
 
+---
+
+### Certifications
+- Oracle Database SQL Certified Associate
 ---
 
 ### 📫 Contact Me
